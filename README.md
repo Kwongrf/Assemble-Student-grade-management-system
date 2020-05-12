@@ -1,6 +1,6 @@
 # Assemble-Student-grade-management-system
 # 学生成绩管理系统——汇编程序设计
-### word文件里有截图和程序流程图
+### s.asm是源码，实验报告.doc文件里有截图和程序流程图
 
 ## 题目要求
 
